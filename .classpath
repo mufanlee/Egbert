@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-dataformat-csv-2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-dataformat-smile-2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-dataformat-xml-2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-dataformat-yaml-2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/json-org.jar"/>
+	<classpathentry kind="lib" path="lib/swt.jar"/>
+	<classpathentry kind="lib" path="lib/twaver.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/fluent-hc-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-win-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-1.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
